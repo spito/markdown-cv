@@ -1,91 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jiri Weiser's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jiří Weiser
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Software Engineer, Lecturer at University
 
+- jiri.weiser@gmail.com
+- +420 730 666 886
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
+- C++17, C, Python, Java
+- Designing libraries and mid-sized subsystems
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2019-11 -- 2022-06`
+__Mavenir__
 
+- The MCO project - the SMS solution for mobile operators.
+- Responsibilities:
+  - to maintain and develop the gateways for large accounts
+  - to design libraries and components
+- _C++_ and _C_, a little bit of _Python_ and _Lua_
+- scrum approach
 
-### Research interests
+`2018-02 -- 2019-10`
+__NetSuite/Oracle__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Responsibilities:
+  - to maintain the core customization part of the codebase
+  - to develop few minor improvements
+- _Java_, _PL/SQL_, a little bit of _ECMA_
+- waterfall approach
 
+`2016-03 -- 2018-01`
+__Seznam__
+
+- Responsibilities:
+  - to maintain and develop the data providing services
+  - to maintain plugins of the search engine
+- _C++_, _Python_, _SQL_
+- small interactions with ElasticSearch
+- scrum approach
+
+### Consulting
+
+`2022-02 -- now`
+__KnowIT__
+
+- My mission is to help our customer to release his project.
+- Responsibilities:
+  - to set up and keep the scrum approach
+  - to specify ideas and wishes of the customer
+
+### Lecturing
+
+`2011 -- now`
+__Faculty of Informatics, Masaryk University.__
+
+- Various programming courses, mainly C, C++, and Java.
+- More details at https://is.muni.cz/person/374154#vyuka
+
+`2021-11`
+__Mavenir via KnowIT__
+
+- Two days coding session dedicated to the move semantic and r-value references.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010 -- 2016`
+__Faculty of Informatics, Masaryk University.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- More details at https://is.muni.cz/person/374154
