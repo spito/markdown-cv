@@ -45,6 +45,15 @@ __Seznam__
 - small interactions with ElasticSearch
 - scrum approach
 
+`2012-09 -- 2016-02`
+__ParaDiSe laboratory at Faculty of Informatics, Masaryk University__
+
+- DIVINE - the model checker of parallel programs
+- Responsibilities:
+  - to invent and develop a data structure efficient in a parallel environment
+  - to develop the POSIX layer for the virtual OS
+  - to develop a network layer for the distributed message passing protocol
+
 ### Consulting
 
 `2022-02 -- now`
@@ -54,6 +63,7 @@ __KnowIT__
 - Responsibilities:
   - to set up and keep the scrum approach
   - to specify ideas and wishes of the customer
+  - to coordinate the customer, devs, and QA
 
 ### Lecturing
 
