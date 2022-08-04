@@ -1,7 +1,7 @@
----
+--
 layout: cv
 title: Jiri Weiser's CV
----
+--
 # Jiří Weiser
 
 Software Engineer, Lecturer at University
@@ -16,7 +16,7 @@ Software Engineer, Lecturer at University
 
 ## Work Experience
 
-`2019-11 -- 2022-06`
+`2019-11 - 2022-06`
 __Mavenir__
 
 - The MCO project - the SMS solution for mobile operators.
@@ -26,7 +26,7 @@ __Mavenir__
 - _C++_ and _C_, a little bit of _Python_ and _Lua_
 - scrum approach
 
-`2018-02 -- 2019-10`
+`2018-02 - 2019-10`
 __NetSuite/Oracle__
 
 - Responsibilities:
@@ -35,7 +35,7 @@ __NetSuite/Oracle__
 - _Java_, _PL/SQL_, a little bit of _ECMA_
 - waterfall approach
 
-`2016-03 -- 2018-01`
+`2016-03 - 2018-01`
 __Seznam__
 
 - Responsibilities:
@@ -45,7 +45,7 @@ __Seznam__
 - small interactions with ElasticSearch
 - scrum approach
 
-`2012-09 -- 2016-02`
+`2012-09 - 2016-02`
 __ParaDiSe laboratory at Faculty of Informatics, Masaryk University__
 
 - DIVINE - the model checker of parallel programs
@@ -56,7 +56,7 @@ __ParaDiSe laboratory at Faculty of Informatics, Masaryk University__
 
 ### Consulting
 
-`2022-02 -- now`
+`2022-02 - now`
 __KnowIT__
 
 - My mission is to help our customer to release his project.
@@ -67,7 +67,7 @@ __KnowIT__
 
 ### Lecturing
 
-`2011 -- now`
+`2011 - now`
 __Faculty of Informatics, Masaryk University.__
 
 - Various programming courses, mainly C, C++, and Java.
@@ -80,7 +80,7 @@ __Mavenir via KnowIT__
 
 ## Education
 
-`2010 -- 2016`
+`2010 - 2016`
 __Faculty of Informatics, Masaryk University.__
 
 - More details at https://is.muni.cz/person/374154
