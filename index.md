@@ -19,11 +19,11 @@ Software Engineer, Lecturer at University
 _2019-11 -- 2022-06_
 __Mavenir__
 
-- The MCO project - the SMS solution for mobile operators.
+- The MCO project -- the SMS solution for mobile operators.
 - Responsibilities:
   - to maintain and develop the gateways for large accounts
   - to design libraries and components
-- _C++_ and _C_, a little bit of _Python_ and _Lua_
+- C++ and C, a little bit of Python and Lua
 - scrum approach
 
 _2018-02 -- 2019-10_
@@ -32,7 +32,7 @@ __NetSuite/Oracle__
 - Responsibilities:
   - to maintain the core customization part of the codebase
   - to develop few minor improvements
-- _Java_, _PL/SQL_, a little V —-bit of _ECMA_
+- Java, PL/SQL, a little bit of ECMA
 - waterfall approach
 
 _2016-03 -- 2018-01_
@@ -41,7 +41,7 @@ __Seznam__
 - Responsibilities:
   - to maintain and develop the data providing services
   - to maintain plugins of the search engine
-- _C++_, _Python_, _SQL_
+- C++, Python, SQL
 - small interactions with ElasticSearch
 - scrum approach
 

@@ -69,15 +69,15 @@ p {
 	width: 65%;
 }
 
-code {
+code, em {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #2d4e5e;
 }
 
-p code {
+p code, p em {
 	position: absolute;
 	left: -14%;
 }
@@ -173,10 +173,10 @@ a:hover {
 	text-decoration: none;
 }
 
-em {
+/* em {
 	font-weight: bold;
 	font-style: italic;
-}
+} */
 
 strong {
 	font-weight: bold;
