@@ -1,7 +1,7 @@
---
+----
 layout: cv
 title: Jiri Weiser's CV
---
+----
 # Jiří Weiser
 
 Software Engineer, Lecturer at University
