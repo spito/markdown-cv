@@ -71,7 +71,7 @@ _2011 -- now_
 __Faculty of Informatics, Masaryk University.__
 
 - Various programming courses, mainly C, C++, and Java.
-- More details at https://is.muni.cz/person/374154#vyuka
+- More details at <https://is.muni.cz/person/374154#vyuka>
 
 _2021-11_
 __Mavenir via KnowIT__
@@ -83,4 +83,4 @@ __Mavenir via KnowIT__
 _2010 -- 2016_
 __Faculty of Informatics, Masaryk University.__
 
-- More details at https://is.muni.cz/person/374154
+- More details at <https://is.muni.cz/person/374154>
