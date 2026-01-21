@@ -14,12 +14,12 @@ Technical Mentor & Educator
 
 Senior Engineer with 10+ years in high-performance parallel C++ systems. I love tightening the gap between complex technical concepts and team capabilities through mentorship, workshops, and AI integration. I believe the best performing teams are built on open communication, continuous learning, and asking the right questions.
 
-### Competencies
+## Competencies
 
 * **Architecture & Design:** High-performance systems, scalability, legacy system modernization
 * **Team Leadership:** Technical coaching, mentoring, knowledge sharing
 * **AI Integration:** LLM integrations, AI-assisted development, process automation
-* **Technical Enablement:** Designing and delivering custom workshops tailored to specific team skill gaps (e.g., Modern C++ transitions, AI adoption).
+* **Technical Enablement:** Designing and delivering custom workshops tailored to specific team skill gaps.
 
 ## Experience Highlights
 
@@ -41,10 +41,9 @@ __Co-founder, Technical Mentor & Educator__
 __Technical Lead__
 
 * **Bridging Domains:** Built and led a software engineering team from the ground up, mentoring domain experts (physicists, mathematicians, biologists) to adopt professional software engineering standards.
-
 * **Complex Architecture:** Architected a physical simulation platform deployed simultaneously in three distinct forms: a standalone Desktop GUI, a Microservice, and a Python-integrated library.
-
 * **Hands-on Engineering:** Acted as the primary hands-on developer during the team's formation, setting up CI/CD infrastructure and release pipelines.
+* **AI Integration:** Pioneered the use of AI tools to bring efficiency to development processes.
 
 ### Masaryk University
 
