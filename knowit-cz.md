@@ -16,7 +16,7 @@ Senior Engineer with 10+ years in high-performance parallel C++ systems. I love 
 
 ## Competencies
 
-* **Architecture & Design:** High-performance systems, scalability, legacy system modernization
+* **Architecture & Design:** High-performance systems, scalability, multi-language systems (C++, Python, Java), legacy system modernization
 * **Team Leadership:** Technical coaching, mentoring, knowledge sharing
 * **AI Integration:** LLM integrations, AI-assisted development, process automation
 * **Technical Enablement:** Designing and delivering custom workshops tailored to specific team skill gaps.
@@ -52,7 +52,7 @@ __Technical Lead__
 __Lecturer__
 
 * Teaching programming courses in C, C++, Python, and Java.
-* Created and taught a course on system design and software architecture for 100+ students.
+* Created and taught a course on system design and software architecture, putting academic theory into practical use for 100+ students
 
 ## Employment History
 
