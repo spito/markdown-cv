@@ -9,5 +9,5 @@ This page serves as a directory to my professional profiles.
 
 ## Profiles
 
+- [KnowIT CZ Profile](knowit-cz.html)
 - [Software Engineer Profile](sw-engineer.html)
-- [Technical Mentor Profile](knowit-cz.html)
