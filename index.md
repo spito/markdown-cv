@@ -14,10 +14,21 @@ Software Engineer, Technical Coach, Lecturer
 
 - **Languages:** C++, Python, Java
 - **Tools & Tech:** Git, Linux, CI/CD, Docker
-- **Expertise:** System Design, Architecture, Technical Coaching, Team Leadership
+- **Expertise:** AI, System Design, Architecture, Technical Coaching, Team Leadership
 - **Methodologies:** Agile, Scrum, Test-Driven Development
 
-## Work Experience
+## Lecturing
+
+### Faculty of Informatics, Masaryk University
+
+`09/2011 - present`
+
+__Lecturer__
+
+- Participated in programming courses in C, C++, Python, and Java
+- Covered a wide range of topics, from foundational programming to advanced areas such as software architecture and parallel programming.
+- Designed and led a course on system design and software architecture.
+- More details available at <https://is.muni.cz/person/374154#vyuka>.
 
 ### KnowIT CZ
 
@@ -29,13 +40,14 @@ __Co-founder, Technical Coach & Mentor__
 - We share our knowledge with teams.
 - We do custom trainings.
 
+## Work Experience
+
 ### Mavenir
 
 `11/2024 - 05/2025`
 `11/2019 - 06/2022`
 
 __Senior Software Engineer__
-
 
 - Developed and maintained gateway software for large telecom clients.
 - Designed reusable C++ libraries and components to improve SMS platform scalability.
@@ -83,19 +95,6 @@ __Research Assistant at ParaDiSe laboratory__
 - Developed a POSIX-compliant layer for the lab’s virtual operating system.
 - Implemented a network layer to support distributed message passing.
 - Used C++ in a high-performance, multi-threaded environment.
-
-## Lecturing
-
-### Faculty of Informatics, Masaryk University
-
-`09/2011 - present`
-
-__Lecturer__
-
-- Participated in programming courses in C, C++, Python, and Java
-- Covered a wide range of topics, from foundational programming to advanced areas such as software architecture and parallel programming.
-- Designed and led a course on system design and software architecture.
-- More details available at <https://is.muni.cz/person/374154#vyuka>.
 
 ## Education
 
