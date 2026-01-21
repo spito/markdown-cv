@@ -12,23 +12,17 @@ Software Engineer, Technical Coach, Lecturer
 
 ## Professional Skills
 
-- **Languages:** C++, Python, Java
-- **Tools & Tech:** Git, Linux, CI/CD, Docker
-- **Expertise:** AI, System Design, Architecture, Technical Coaching, Team Leadership
-- **Methodologies:** Agile, Scrum, Test-Driven Development
+* **Spoken Languages:** Czech (native), English (fluent)
+* **Lecturing**: Experiental teaching, practical workshops, pair/mob programming
+* **Methodologies:** Agile, Scrum, Test-Driven Development
+
+## Technical Skills
+
+* **Programming Languages:** C++, Python, Java
+* **Tools & Tech:** Git, Linux, CI/CD, Docker
+* **Expertise:** AI, System Design, Architecture, Technical Coaching, Team Leadership
 
 ## Lecturing
-
-### Faculty of Informatics, Masaryk University
-
-`09/2011 - present`
-
-__Lecturer__
-
-- Participated in programming courses in C, C++, Python, and Java
-- Covered a wide range of topics, from foundational programming to advanced areas such as software architecture and parallel programming.
-- Designed and led a course on system design and software architecture.
-- More details available at <https://is.muni.cz/person/374154#vyuka>.
 
 ### KnowIT CZ
 
@@ -36,11 +30,22 @@ __Lecturer__
 
 __Co-founder, Technical Coach & Mentor__
 
-- Our mission is to boost the quality of development in our customers’ teams.
-- We share our knowledge with teams.
-- We do custom trainings.
+* We help companies using fully the potential of their technologies and knowledge.
+* We share our knowledge via practical workshops.
+* We help introduce AI into companies processes.
 
-## Work Experience
+### Faculty of Informatics, Masaryk University
+
+`09/2011 - present`
+
+__Lecturer__
+
+* Participated in programming courses in C, C++, Python, and Java
+* Covered a wide range of topics, from foundational programming to advanced areas such as software architecture and parallel programming.
+* Designed and led a course on system design and software architecture.
+* More details available at <https://is.muni.cz/person/374154#vyuka>.
+
+## Software Development
 
 ### Mavenir
 
@@ -49,9 +54,9 @@ __Co-founder, Technical Coach & Mentor__
 
 __Senior Software Engineer__
 
-- Developed and maintained gateway software for large telecom clients.
-- Designed reusable C++ libraries and components to improve SMS platform scalability.
-- Used C/C++ and Python in a high-performance, multi-threaded environment.
+* Developed and maintained gateway software for large telecom clients.
+* Designed reusable C++ libraries and components to improve SMS platform scalability.
+* Used C/C++ and Python in a high-performance, multi-threaded environment.
 
 ### Thermo Fisher Scientific
 
@@ -59,9 +64,10 @@ __Senior Software Engineer__
 
 __Technical Lead__
 
-- Led architecture design for a new simulation platform for electron microscopy.
-- Mentored team members and established technical direction.
-- Implemented the core  CI/CD pipelines and modern C++20 standards across codebase.
+* Led architecture design for a new simulation platform for electron microscopy.
+* Mentored team members and established technical direction.
+* Implemented the core CI/CD pipelines and modern C++20 standards across codebase.
+* Pioneered the adoption of AI techniques in the development process to enhance software quality and efficiency.
 
 ### NetSuite/Oracle
 
@@ -69,9 +75,9 @@ __Technical Lead__
 
 __Software Engineer__
 
-- Developed and maintained the core of the NetSuite ERP system.
-- Contributed to the transformation of the legacy PL/SQL codebase to Java.
-- Implemented new features in the NetSuite JavaScript (ECMA) API.
+* Developed and maintained the core of the NetSuite ERP system.
+* Contributed to the transformation of the legacy PL/SQL codebase to Java.
+* Implemented new features in the NetSuite JavaScript (ECMA) API.
 
 ### Seznam
 
@@ -79,10 +85,12 @@ __Software Engineer__
 
 __Software Engineer__
 
-- Developed and maintained the backend of the Zboží.cz product comparison service.
-- Maintained and extended plugins for the Seznam search engine.
-- Used C++ in a high-performance environment.
-- Used Python, SQL, and ElasticSearch for data-related services.
+* Developed and maintained the backend of the Zboží.cz product comparison service.
+* Maintained and extended plugins for the Seznam search engine.
+* Used C++ in a high-performance environment.
+* Used Python, SQL, and ElasticSearch for data-related services.
+
+## Academic Experience
 
 ### Faculty of Informatics, Masaryk University
 
@@ -90,13 +98,11 @@ __Software Engineer__
 
 __Research Assistant at ParaDiSe laboratory__
 
-- Contributed to the development of DIVINE, a model checker for verifying parallel programs.
-- Designed and implemented a custom data structure optimized for parallel environments.
-- Developed a POSIX-compliant layer for the lab’s virtual operating system.
-- Implemented a network layer to support distributed message passing.
-- Used C++ in a high-performance, multi-threaded environment.
-
-## Education
+* Contributed to the development of DIVINE, a model checker for verifying parallel programs.
+* Designed and implemented a custom data structure optimized for parallel environments.
+* Developed a POSIX-compliant layer for the lab’s virtual operating system.
+* Implemented a network layer to support distributed message passing.
+* Used C++ in a high-performance, multi-threaded environment.
 
 ### Faculty of Informatics, Masaryk University
 
