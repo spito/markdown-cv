@@ -7,22 +7,18 @@ title: Jiri Weiser's resume
 Software Engineer, Technical Coach, Lecturer
 
 - jiri.weiser-at-gmail.com
-- +420 730 666 886
 - [LinkedIn](https://www.linkedin.com/in/ji%C5%99%C3%AD-weiser-539952112/)
 
 ## Professional Skills
 
 * **Spoken Languages:** Czech (native), English (fluent)
-* **Lecturing**: Experiental teaching, practical workshops, pair/mob programming
-* **Methodologies:** Agile, Scrum, Test-Driven Development
-
-## Technical Skills
-
 * **Programming Languages:** C++, Python, Java
 * **Tools & Tech:** Git, Linux, CI/CD, Docker
 * **Expertise:** AI, System Design, Architecture, Technical Coaching, Team Leadership
+* **Methodologies:** Agile, Scrum, Test-Driven Development
+* **Lecturing**: Experiental teaching, practical workshops, pair/mob programming
 
-## Lecturing
+## Work Experience
 
 ### KnowIT CZ
 
@@ -33,19 +29,6 @@ __Co-founder, Technical Coach & Mentor__
 * We help companies using fully the potential of their technologies and knowledge.
 * We share our knowledge via practical workshops.
 * We help introduce AI into companies processes.
-
-### Faculty of Informatics, Masaryk University
-
-`09/2011 - present`
-
-__Lecturer__
-
-* Participated in programming courses in C, C++, Python, and Java
-* Covered a wide range of topics, from foundational programming to advanced areas such as software architecture and parallel programming.
-* Designed and led a course on system design and software architecture.
-* More details available at <https://is.muni.cz/person/374154#vyuka>.
-
-## Software Development
 
 ### Mavenir
 
@@ -89,6 +72,17 @@ __Software Engineer__
 * Maintained and extended plugins for the Seznam search engine.
 * Used C++ in a high-performance environment.
 * Used Python, SQL, and ElasticSearch for data-related services.
+
+### Faculty of Informatics, Masaryk University
+
+`09/2011 - present`
+
+__Lecturer__
+
+* Participated in programming courses in C, C++, Python, and Java
+* Covered a wide range of topics, from foundational programming to advanced areas such as software architecture and parallel programming.
+* Designed and led a course on system design and software architecture.
+* More details available at <https://is.muni.cz/person/374154#vyuka>.
 
 ## Academic Experience
 
